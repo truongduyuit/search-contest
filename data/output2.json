@@ -3,81 +3,15 @@
     "result": {
         "đồng hồ": [
             {
-                "name": "Dây đeo cho đồng hồ định vị Q50",
-                "description": "Thiết bị đeo thông minh - Dây đeo cho đồng hồ định vị Q50",
+                "name": "Đồng hồ",
+                "description": "Đồng hồ cao cấp",
                 "categories": [
-                    "Thiết Bị Điện Tử",
-                    "Thiết bị đeo thông minh"
+                    "Watch",
+                    "Men's watch"
                 ],
-                "price": 70000,
-                "sold": 0,
-                "score": 0.3870967741935483
-            },
-            {
-                "name": "Đồng Hồ Thông Minh Band M3 chống nước IP67 - đồng hồ M3",
-                "description": "Thiết bị đeo thông minh - Đồng Hồ Thông Minh Band M3 chống nước IP67 - đồng hồ M3",
-                "categories": [
-                    "Thiết Bị Điện Tử",
-                    "Thiết bị đeo thông minh"
-                ],
-                "price": 425000,
-                "sold": 0,
-                "score": 0.32727272727272727
-            },
-            {
-                "name": "[HOT CÓ VIDEO] Đồng hồ đập tay trẻ em",
-                "description": "Đồng hồ trẻ em - [HOT CÓ VIDEO] Đồng hồ đập tay trẻ em",
-                "categories": [
-                    "Đồng Hồ",
-                    "Đồng hồ trẻ em"
-                ],
-                "price": 25000,
-                "sold": 0,
-                "score": 0.32432432432432434
-            },
-            {
-                "name": "[Giá sập sàn] Đồng hồ dây da nam MODIVA",
-                "description": "Đồng hồ nam - [Giá sập sàn] Đồng hồ dây da nam MODIVA",
-                "categories": [
-                    "Đồng Hồ",
-                    "Đồng hồ nam"
-                ],
-                "price": 80000,
-                "sold": 0,
-                "score": 0.30769230769230765
-            },
-            {
-                "name": "[QUÀ TẶNG BÉ YÊU] Đồng Hồ Thông Minh DF25",
-                "description": "Thiết bị đeo thông minh - [QUÀ TẶNG BÉ YÊU] Đồng Hồ Thông Minh DF25",
-                "categories": [
-                    "Thiết Bị Điện Tử",
-                    "Thiết bị đeo thông minh"
-                ],
-                "price": 410000,
-                "sold": 0,
-                "score": 0.29268292682926833
-            },
-            {
-                "name": "[XẢ HÀNG] Quai đồng hồ thông minh Apple Watch - Quai đồng hồ Apple phiên bản Sport",
-                "description": "Thiết bị đeo thông minh - [XẢ HÀNG] Quai đồng hồ thông minh Apple Watch - Quai đồng hồ Apple phiên bản Sport",
-                "categories": [
-                    "Thiết Bị Điện Tử",
-                    "Thiết bị đeo thông minh"
-                ],
-                "price": 89000,
-                "sold": 0,
-                "score": 0.29268292682926833
-            },
-            {
-                "name": "[HOT]  ĐỒNG HỒ LED TRẺ EM CỰC DỄ THƯƠNG AH489",
-                "description": "Đồng hồ trẻ em - [HOT]  ĐỒNG HỒ LED TRẺ EM CỰC DỄ THƯƠNG AH489",
-                "categories": [
-                    "Đồng Hồ",
-                    "Đồng hồ trẻ em"
-                ],
-                "price": 39600,
-                "sold": 0,
-                "score": 0.26666666666666666
+                "price": 2300000,
+                "sold": 274,
+                "score": 1.714285714285714
             },
             {
                 "name": "Đồng hồ Hanboro",
@@ -88,18 +22,7 @@
                 ],
                 "price": 8717000,
                 "sold": 0,
-                "score": 0.26666666666666666
-            },
-            {
-                "name": "[HOT] Đồng hồ Thể Thao Trẻ Em Chống nước dây nhựa",
-                "description": "Đồng hồ trẻ em - [HOT] Đồng hồ Thể Thao Trẻ Em Chống nước dây nhựa",
-                "categories": [
-                    "Đồng Hồ",
-                    "Đồng hồ trẻ em"
-                ],
-                "price": 199000,
-                "sold": 0,
-                "score": 0.24489795918367344
+                "score": 0.8
             },
             {
                 "name": "Đồng hồ xách tay ",
@@ -110,10 +33,131 @@
                 ],
                 "price": 2277000,
                 "sold": 0,
-                "score": 0.2426470588235294
+                "score": 0.7205882352941176
+            },
+            {
+                "name": "Đồng hồ nam FNGEEN",
+                "description": "Đồng hồ nam - Đồng hồ nam FNGEEN\nFngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen Fngeen",
+                "categories": [
+                    "Đồng Hồ",
+                    "Đồng hồ nam"
+                ],
+                "price": 270000,
+                "sold": 0,
+                "score": 0.6666666666666667
+            },
+            {
+                "name": "Đồng hồ thông minh",
+                "description": "\nCông nghệ màn hình:OLED\nKích thước màn hình:1.57 inch\nThời gian sử dụng pin:Khoảng 1.5 ngày\nHệ điều hành:watchOS 6.0\nKết nối với hệ điều hành:iOS 13 trở lên\nChất liệu mặt:Ion-X strengthened glass\nĐường kính mặt:40",
+                "categories": [
+                    "Watch",
+                    "Other"
+                ],
+                "price": 14421000,
+                "sold": 0,
+                "score": 0.6666666666666667
+            },
+            {
+                "name": "Đồng hồ da Nữ Halei",
+                "description": "Đồng hồ nữ - Đồng hồ da Nữ Halei",
+                "categories": [
+                    "Đồng Hồ",
+                    "Đồng hồ nữ"
+                ],
+                "price": 190000,
+                "sold": 0,
+                "score": 0.631578947368421
+            },
+            {
+                "name": "Đồng hồ chiếu hình 3d",
+                "description": "Đồng hồ trẻ em - Đồng hồ chiếu hình 3d",
+                "categories": [
+                    "Đồng Hồ",
+                    "Đồng hồ trẻ em"
+                ],
+                "price": 79000,
+                "sold": 0,
+                "score": 0.5714285714285714
+            },
+            {
+                "name": "ĐỒNG HỒ ĐỊNH VỊ TRẺ EM",
+                "description": "Đồng hồ trẻ em - ĐỒNG HỒ ĐỊNH VỊ TRẺ EM",
+                "categories": [
+                    "Đồng Hồ",
+                    "Đồng hồ trẻ em"
+                ],
+                "price": 265000,
+                "sold": 0,
+                "score": 0.5454545454545454
+            },
+            {
+                "name": "Đồng hồ xách tay chuẩn",
+                "description": "🔝  PHIÊN BẢN LIMITED 300 CHIẾC TOÀN CẦU LẦN ĐẦU TIÊN CÓ MẶT TẠI VIỆT NAM !!! ",
+                "categories": [
+                    "Watch",
+                    "Men's watch"
+                ],
+                "price": 7360000,
+                "sold": 0,
+                "score": 0.5454545454545454
+            },
+            {
+                "name": "Đồng hồ xách tay chuẩn",
+                "description": "ROLEX CLASSIC LEATHER LADY",
+                "categories": [
+                    "Watch",
+                    "Women's watches"
+                ],
+                "price": 1725000,
+                "sold": 0,
+                "score": 0.5454545454545454
             }
         ],
         "bàn là": [
+            {
+                "name": "Bàn là hơi nước sokany",
+                "description": "Thiết bị chăm sóc quần áo - Bàn là hơi nước sokany",
+                "categories": [
+                    "Thiết Bị Điện Gia Dụng",
+                    "Thiết bị chăm sóc quần áo"
+                ],
+                "price": 179000,
+                "sold": 0,
+                "score": 0.5454545454545454
+            },
+            {
+                "name": "Bàn là hơi nước cầm tay Sokany",
+                "description": "Thiết bị chăm sóc quần áo - Bàn là hơi nước cầm tay Sokany",
+                "categories": [
+                    "Thiết Bị Điện Gia Dụng",
+                    "Thiết bị chăm sóc quần áo"
+                ],
+                "price": 179900,
+                "sold": 0,
+                "score": 0.4
+            },
+            {
+                "name": "Bàn Là ủi Đồ Hơi Nước Cầm Tay Sokany",
+                "description": "Thiết bị chăm sóc quần áo - Bàn Là ủi Đồ Hơi Nước Cầm Tay Sokany",
+                "categories": [
+                    "Thiết Bị Điện Gia Dụng",
+                    "Thiết bị chăm sóc quần áo"
+                ],
+                "price": 350000,
+                "sold": 0,
+                "score": 0.33333333333333337
+            },
+            {
+                "name": "Bàn là hơi SUNHOUSE SHD2063P màu tím",
+                "description": "Thiết bị chăm sóc quần áo - Bàn là hơi SUNHOUSE SHD2063P màu tím",
+                "categories": [
+                    "Thiết Bị Điện Gia Dụng",
+                    "Thiết bị chăm sóc quần áo"
+                ],
+                "price": 209000,
+                "sold": 0,
+                "score": 0.33333333333333337
+            },
             {
                 "name": "Bàn là khô 💖MẪU MỚI 2020 💖- Bàn là khô Sunhouse HÀNG CHÍNH HÃNG - Có video",
                 "description": "Thiết bị chăm sóc quần áo - Bàn là khô 💖MẪU MỚI 2020 💖- Bàn là khô Sunhouse HÀNG CHÍNH HÃNG - Có video",
@@ -123,7 +167,29 @@
                 ],
                 "price": 150000,
                 "sold": 0,
-                "score": 0.23684210526315785
+                "score": 0.3157894736842105
+            },
+            {
+                "name": "BÀN LÀ HƠI NƯỚC CÂY ĐỨNG YANGZI (1,8L)",
+                "description": "Thiết bị chăm sóc quần áo - BÀN LÀ HƠI NƯỚC CÂY ĐỨNG YANGZI (1,8L)",
+                "categories": [
+                    "Thiết Bị Điện Gia Dụng",
+                    "Thiết bị chăm sóc quần áo"
+                ],
+                "price": 290000,
+                "sold": 0,
+                "score": 0.3157894736842105
+            },
+            {
+                "name": "Bàn Là Hơi Nước Đứng Ủi Phẳng Mọi Chất Vải 1300W",
+                "description": "Thiết bị chăm sóc quần áo - Bàn Là Hơi Nước Đứng Ủi Phẳng Mọi Chất Vải 1300W",
+                "categories": [
+                    "Thiết Bị Điện Gia Dụng",
+                    "Thiết bị chăm sóc quần áo"
+                ],
+                "price": 520000,
+                "sold": 0,
+                "score": 0.25
             },
             {
                 "name": "Bảo hành 12 Tháng BÀN LÀ HƠI NƯỚC SUNHOUSE 220ML SH206",
@@ -137,95 +203,40 @@
                 "score": 0.2222222222222222
             },
             {
-                "name": "[FREESHIP - GIÁ SẬP SÀN] Bàn Là Hơi Nước Cầm Tay SUNHOUSE SHD2080",
-                "description": "Thiết bị chăm sóc quần áo - [FREESHIP - GIÁ SẬP SÀN] Bàn Là Hơi Nước Cầm Tay SUNHOUSE SHD2080",
+                "name": "Bàn Là Hơi Nước Cầm Tay Sokany ( Bảo hành chính hãng 12 tháng )",
+                "description": "Thiết bị chăm sóc quần áo - Bàn Là Hơi Nước Cầm Tay Sokany ( Bảo hành chính hãng 12 tháng )",
                 "categories": [
                     "Thiết Bị Điện Gia Dụng",
                     "Thiết bị chăm sóc quần áo"
                 ],
-                "price": 370000,
+                "price": 349000,
                 "sold": 0,
-                "score": 0.18461538461538463
+                "score": 0.19047619047619047
             },
             {
-                "name": "Bàn là hơi nước sokany",
-                "description": "Thiết bị chăm sóc quần áo - Bàn là hơi nước sokany",
+                "name": "Bàn là hơi nước du lịch mini Sokany Travel Iron (KHO GIÁ XƯỞNG)",
+                "description": "Thiết bị chăm sóc quần áo - Bàn là hơi nước du lịch mini Sokany Travel Iron (KHO GIÁ XƯỞNG)",
                 "categories": [
                     "Thiết Bị Điện Gia Dụng",
                     "Thiết bị chăm sóc quần áo"
                 ],
-                "price": 179000,
+                "price": 176900,
                 "sold": 0,
-                "score": 0.18181818181818182
-            },
-            {
-                "name": "[Xả kho] Bàn là hơi nước cầm tay SOKANY, Bàn ủi hơi nước cầm tay SOKANY - Sunny House",
-                "description": "Thiết bị chăm sóc quần áo - [Xả kho] Bàn là hơi nước cầm tay SOKANY, Bàn ủi hơi nước cầm tay SOKANY - Sunny House",
-                "categories": [
-                    "Thiết Bị Điện Gia Dụng",
-                    "Thiết bị chăm sóc quần áo"
-                ],
-                "price": 339000,
-                "sold": 0,
-                "score": 0.1764705882352941
-            },
-            {
-                "name": "[Freeship toàn quốc từ 50k] Bàn là khô Sunhouse SHD1072 - Có ảnh thật",
-                "description": "Thiết bị chăm sóc quần áo - [Freeship toàn quốc từ 50k] Bàn là khô Sunhouse SHD1072 - Có ảnh thật",
-                "categories": [
-                    "Thiết Bị Điện Gia Dụng",
-                    "Thiết bị chăm sóc quần áo"
-                ],
-                "price": 145000,
-                "sold": 0,
-                "score": 0.17391304347826086
-            },
-            {
-                "name": "Dầu Nóng Xoa bóp Là Xướng",
-                "description": "🌺  🌺  Dầu nóng xoa bóp Antiphlamine Hàn Quốc 100ml  🌺  🌺 \n 🌲  Giá bán # 9 usdt / chai \n--------------\n 💦  Công dụng của dầu nóng xoa bóp Antiphlamine\n 🌼  Hỗ trợ điều trị các chứng viêm xương, đau cơ, đau khớp, tê buốt tay chân.\n 🌱  Hỗ trợ điều trị đau đầu, đau vai, đua lưng, đau cổ\n 🎋  Hỗ trợ điều trị bong gân, chấn thương khi vận động nhiều.\n 🍂  Làm giảm các chứng viêm ngứa da, nổi mẩn đỏ do côn trùng cắn.",
-                "categories": [
-                    "Health and beauty",
-                    "Other"
-                ],
-                "price": 207000,
-                "sold": 3,
-                "score": 0.16
-            },
-            {
-                "name": "[ GIÁ SẬP SÀN] Bàn Là Hơi Nước Cầm Tay SWIFT STEAM Công Suất 1300W Tạo Nhiệt Siêu Nhanh",
-                "description": "Thiết bị chăm sóc quần áo - [ GIÁ SẬP SÀN] Bàn Là Hơi Nước Cầm Tay SWIFT STEAM Công Suất 1300W Tạo Nhiệt Siêu Nhanh",
-                "categories": [
-                    "Thiết Bị Điện Gia Dụng",
-                    "Thiết bị chăm sóc quần áo"
-                ],
-                "price": 319000,
-                "sold": 0,
-                "score": 0.13793103448275862
-            },
-            {
-                "name": "Bàn là hơi nước cầm tay Sokany",
-                "description": "Thiết bị chăm sóc quần áo - Bàn là hơi nước cầm tay Sokany",
-                "categories": [
-                    "Thiết Bị Điện Gia Dụng",
-                    "Thiết bị chăm sóc quần áo"
-                ],
-                "price": 179900,
-                "sold": 0,
-                "score": 0.13333333333333333
-            },
-            {
-                "name": "Lót chuột bàn phím 2 in 1",
-                "description": "Chuột, Bàn Phím - Lót chuột bàn phím 2 in 1",
-                "categories": [
-                    "Máy tính & Laptop",
-                    "Chuột, Bàn Phím"
-                ],
-                "price": 85000,
-                "sold": 0,
-                "score": 0.12
+                "score": 0.19047619047619047
             }
         ],
         "laptop cũ card rời": [
+            {
+                "name": "LAPTOP HP 8440p i5/4G/320G HDD Card rời",
+                "description": "Laptop - LAPTOP HP 8440p i5/4G/320G HDD Card rời",
+                "categories": [
+                    "Máy tính & Laptop",
+                    "Laptop"
+                ],
+                "price": 5900000,
+                "sold": 0,
+                "score": 1
+            },
             {
                 "name": "Laptop cũ Dell Latitude E6540 Card rời màn hình Fullhd i5 4300M, 4GB, 320GB, AMD 8790M 2GB",
                 "description": "Laptop - Laptop cũ Dell Latitude E6540 Card rời màn hình Fullhd i5 4300M, 4GB, 320GB, AMD 8790M 2GB",
@@ -235,7 +246,29 @@
                 ],
                 "price": 8100000,
                 "sold": 0,
-                "score": 0.23333333333333334
+                "score": 0.5
+            },
+            {
+                "name": "Xe Máy Cũ",
+                "description": "Xe Máy Cũ\nTình trạng  hàng : Đang Chờ Nhập Kho ( khi có hàng vào kho lại có số lượng hiển thị )\nCảm ơn Quý Khách Ghé Thăm !",
+                "categories": [
+                    "Vehicle",
+                    "motorcycle"
+                ],
+                "price": 23000000,
+                "sold": 12,
+                "score": 0.4444444444444444
+            },
+            {
+                "name": "XE MÁY CŨ",
+                "description": "Xe máy cũ , ACE Có nhu cầu  liên hệ Shop \n",
+                "categories": [
+                    "Vehicle",
+                    "motorcycle"
+                ],
+                "price": 34500000,
+                "sold": 0,
+                "score": 0.4444444444444444
             },
             {
                 "name": "  Laptop Cũ DELL inspiron 5458 i5 5200U , Ram 4GB , Ổ Cứng 500GB , Vga Rời GT920 , Màn Hình  14.0HD đẹp likenew  ",
@@ -246,7 +279,7 @@
                 ],
                 "price": 7029000,
                 "sold": 0,
-                "score": 0.17893967686936754
+                "score": 0.29560769667938624
             },
             {
                 "name": "  Laptop Cũ Dell inspiron 15R 5558 i5 5200U ,4Gb ,Ổ Cứng 500Gb, Vga Rời Ndivia GT920, Màn hình15.6 FHD máy đẹp likenew  ",
@@ -257,7 +290,40 @@
                 ],
                 "price": 7920000,
                 "sold": 0,
-                "score": 0.16839080459770117
+                "score": 0.2781609195402299
+            },
+            {
+                "name": "LAPTOP Cũ Dell Latitude E6420 i5 2520M | RAM 4 GB | HDD 250G | Màn Hình 14.0” HD | Card on",
+                "description": "Laptop - LAPTOP Cũ Dell Latitude E6420 i5 2520M | RAM 4 GB | HDD 250G | Màn Hình 14.0” HD | Card on",
+                "categories": [
+                    "Máy tính & Laptop",
+                    "Laptop"
+                ],
+                "price": 4059000,
+                "sold": 0,
+                "score": 0.23333333333333334
+            },
+            {
+                "name": "Laptop Asus 340H",
+                "description": "I5 9300H/8Gb/256GB",
+                "categories": [
+                    "PC & Laptop",
+                    "Other"
+                ],
+                "price": 2829000,
+                "sold": 3,
+                "score": 0.1875
+            },
+            {
+                "name": "Địu ngồi đa năng BeiLing Hàn Quốc có thể tách rời - Hàng Chính Hãng Full Hộp",
+                "description": "Ghế, Nôi, Cũi, Xe đẩy & Địu - Địu ngồi đa năng BeiLing Hàn Quốc có thể tách rời - Hàng Chính Hãng Full Hộp",
+                "categories": [
+                    "Mẹ & Bé",
+                    "Ghế, Nôi, Cũi, Xe đẩy & Địu"
+                ],
+                "price": 275000,
+                "sold": 0,
+                "score": 0.13157894736842105
             },
             {
                 "name": "Phím laptop Lenovo G560",
@@ -269,72 +335,118 @@
                 "price": 161700,
                 "sold": 0,
                 "score": 0.13043478260869565
-            },
+            }
+        ],
+        "sữa non zealand": [
             {
-                "name": "LAPTOP HP 8440p i5/4G/320G HDD Card rời",
-                "description": "Laptop - LAPTOP HP 8440p i5/4G/320G HDD Card rời",
+                "name": "SỮA NON ALPHA LIPID NEW ZEALAND",
+                "description": "Sữa non Alpha Lipid Lifeline - Nhập khẩu 100% từ New Zealand\nSữa non Alpha Lipid công dụng tăng cường sức đề kháng, bổ sung canxi, bổ sung lợi khuẩn. Hàng nhập khẩu từ New Zealand. Giao hàng nhanh trong 2 giờ miễn phí giao hàng. Giá bán. Cách uống. Thành phần. Công dụng.\n",
                 "categories": [
-                    "Máy tính & Laptop",
-                    "Laptop"
+                    "Health and beauty",
+                    "Other"
                 ],
-                "price": 5900000,
-                "sold": 0,
-                "score": 0.1282051282051282
+                "price": 2300000,
+                "sold": 2,
+                "score": 0.6774193548387096
             },
             {
-                "name": "LAPTOP Cũ Dell Latitude E6420 i5 2520M | RAM 4 GB | HDD 250G | Màn Hình 14.0” HD | Card on",
-                "description": "Laptop - LAPTOP Cũ Dell Latitude E6420 i5 2520M | RAM 4 GB | HDD 250G | Màn Hình 14.0” HD | Card on",
+                "name": "Sữa non Alpha Lipid Life New Zealand",
+                "description": "Sữa Non Nhập Khẩu New ZeaLand",
                 "categories": [
-                    "Máy tính & Laptop",
-                    "Laptop"
+                    "Health and beauty",
+                    "Functional foods"
                 ],
-                "price": 4059000,
+                "price": 1380000,
                 "sold": 0,
-                "score": 0.12222222222222223
+                "score": 0.5833333333333333
             },
             {
-                "name": "[HOT] Laptop cũ Thinkpad T440s-Siêu Bền Bỉ- BH 1 Năm+KM - ổ cứng SSD xé gió - Bao chạy nhanh",
-                "description": "Laptop - [HOT] Laptop cũ Thinkpad T440s-Siêu Bền Bỉ- BH 1 Năm+KM - ổ cứng SSD xé gió - Bao chạy nhanh",
+                "name": "Sữa non ALPHALIP",
+                "description": "\n😅😅😅E bán sữa đắt nhất tại thị trường Việt Nam.... Nhưng tìm hiểu ra... thì nó lại rẻ nhất.... cả nhà chịu khó quan tâm xem 1 LON ANPHALIPID ĐEM LẠI CHO CHÚNG TA NHỮNG LỢI ÍCH gì nhé..\n👉1. Kháng thể : 8400mg/1 lon. (kháng thể tự nhiên ạ... Dùng hết 1 lon là coi như chúng ta được tiêm hơn 8 mũi tiêm kháng thể trong bệnh viện - giá 1 mũi là 1.300k- 1.800k tùy từng bệnh \n👉2. Canxi : 28000mg/1 lon. 1000mg/ly/ngày. \n✌️Can xi Là khỏi nguồn của sự sống của truyền dẫn hệ thần kinh đó là lý do chúng ta thường xuyên bị đau đầu.\n👉3. Lợi khuẩn: 28 tỷ /1 lon/1tỉ con/ly/ngày. Nâng cao sức khỏe HỆ TIÊU HOÁ giúp ổn định đường ruột và hấp thụ thức ăn.\n👉4. Vitamin và khoáng chất : Là giúp cân bằng các chuyển hoá trong cơ thể.\n👉5. Công nghệ độc quyền alpha lipid : Giúp bảo vệ nguyên cấu trúc và hoạt tính sinh học của sp , giúp loại bỏ những thành phần ko có lợi ( đạm, đường , béo rất thấp) và đặc biệt đã loại bỏ đường lactose. Giúp hấp thu tối đa từ 95-98% dinh dưỡng ❣️❣️",
                 "categories": [
-                    "Máy tính & Laptop",
-                    "Laptop"
+                    "Mom & Baby",
+                    "Baby milk"
                 ],
-                "price": 9891000,
+                "price": 1610000,
                 "sold": 0,
-                "score": 0.09782608695652174
+                "score": 0.5625
             },
             {
-                "name": "Bàn phím laptop Hp 8540p Hp 8540w",
-                "description": "Chuột, Bàn Phím - Bàn phím laptop Hp 8540p Hp 8540w",
-                "categories": [
-                    "Máy tính & Laptop",
-                    "Chuột, Bàn Phím"
-                ],
-                "price": 247350,
-                "sold": 0,
-                "score": 0.09090909090909091
-            },
-            {
-                "name": "[HOT] Laptop cũ HP 840 G1-Siêu Bền Bỉ-BH1 Năm + KM - ổ cứng SSD xé gió - Bao chạy nhanh - Hình thức Like new 99%",
-                "description": "Laptop - [HOT] Laptop cũ HP 840 G1-Siêu Bền Bỉ-BH1 Năm + KM - ổ cứng SSD xé gió - Bao chạy nhanh - Hình thức Like new 99%",
-                "categories": [
-                    "Máy tính & Laptop",
-                    "Laptop"
-                ],
-                "price": 6777000,
-                "sold": 0,
-                "score": 0.08035714285714285
-            },
-            {
-                "name": "Địu ngồi đa năng BeiLing Hàn Quốc có thể tách rời - Hàng Chính Hãng Full Hộp",
-                "description": "Ghế, Nôi, Cũi, Xe đẩy & Địu - Địu ngồi đa năng BeiLing Hàn Quốc có thể tách rời - Hàng Chính Hãng Full Hộp",
+                "name": "Sữa non idong số 1",
+                "description": "Thực phẩm cho bé từ 6 tháng tuổi - Sữa non idong số 1",
                 "categories": [
                     "Mẹ & Bé",
-                    "Ghế, Nôi, Cũi, Xe đẩy & Địu"
+                    "Thực phẩm cho bé từ 6 tháng tuổi"
                 ],
-                "price": 275000,
+                "price": 350000,
                 "sold": 0,
-                "score": 0.07894736842105263
+                "score": 0.49999999999999994
+            },
+            {
+                "name": "Sữa Non Anphalipid ",
+                "description": "Description:\n- Sữa non Alpha Lipid là loại thực phẩm chức năng giúp chăm sóc sức khỏe toàn diện bằng những lợi khuẩn tự nhiên 100% - Trong sữa non Alpha Lipid có thành phần kháng viêm tự nhiên, tăng cường hệ miễn dịch cho cơ thể, bảo vệ cơ thể khỏi các mầm bệnh gây hại. - Công nghệ độc quyền Alpha Lipid giúp kích thích cơ thể tăng sản xuất tế bào mầm nội sinh và tái tạo tế bào mạch máu, mang đến một hệ xương khớp chắc khỏe đạt tiêu chuẩn GMP thế giới",
+                "categories": [
+                    "Health and beauty",
+                    "Functional foods"
+                ],
+                "price": 1377700,
+                "sold": 6,
+                "score": 0.4824561403508772
+            },
+            {
+                "name": "Sữa Non Alpha Lipid Life Line Từ New Zealand",
+                "description": "Sữa Non Alpha Lipid Life Line Từ New Zealand.\nXuất xứ: New Zealand\nQuy cách: Hộp 450g",
+                "categories": [
+                    "Health and beauty",
+                    "Functional foods"
+                ],
+                "price": 1495000,
+                "sold": 0,
+                "score": 0.4772727272727273
+            },
+            {
+                "name": "SỮA NON ANPHA LIPID",
+                "description": "Sp hỗ trợ sức khỏe ,bổ sung canxi và các vitamin khoáng chất,tăng cường kháng thể và hệ miễn dịch hoàn hảo nhất",
+                "categories": [
+                    "Health and beauty",
+                    "Other"
+                ],
+                "price": 2300000,
+                "sold": 1,
+                "score": 0.47368421052631576
+            },
+            {
+                "name": "Sữa Non ALPHA LIPID",
+                "description": "Sữa Non Alpha Lipid Life Line Từ New Zealand\n\nMã sản phẩm: ALP-001\nTrạng thái: Còn hàng\nXuất xứ: New Zealand\nQuy cách: Hộp 450g",
+                "categories": [
+                    "Health and beauty",
+                    "Functional foods"
+                ],
+                "price": 1150000,
+                "sold": 0,
+                "score": 0.47368421052631576
+            },
+            {
+                "name": "Sữa non alpha lipit",
+                "description": "Thành phần nào trong sữa non alpha lipid lifeline giúp bạn khỏe mạnh?\n\nTrong sữa non alpha lipid lifeline có chứa yếu tố tăng trưởng và phospholipid, cung cấp đủ lượng canxi cùng các vitamin và khoáng chất thiết yếu cho cơ thể góp phần vào việc phát triển thể lực và trí lực cho trẻ, hoàn thiện hệ miễn dịch bảo vệ sức khỏe chống các yếu tố gây hại.\nSữa non alpha lipid lifeline là sản phẩm tự nhiên có chứa các thành phần miễn dịch, chống oxy hóa, có chứa các thành phần hỗ trợ, tái tạo và phục hồi các cơ quan giúp cho việc chữa bệnh. Sữa non alpha lipid lifeline chăm sóc nuôi dưỡng đường ruột, tăng cường sức khỏe hệ tiêu hóa tổng thể, hỗ trợ hệ tiêu hóa khỏe mạnh.\n",
+                "categories": [
+                    "Health and beauty",
+                    "Functional foods"
+                ],
+                "price": 2300000,
+                "sold": 1,
+                "score": 0.47368421052631576
+            },
+            {
+                "name": "Viên sữa non Goldten",
+                "description": "\n\nViên sữa non Goldten là sữa non dạng viên nhai hoặc ngậm giúp tăng cường sức đề kháng, tăng cường hệ miễn dịch tốt hơn, giúp đường ruột khỏe mạnh, tiện lợi để sử dụng cho người lớn, hỗ trợ chống lại bệnh tật và làm cho cơ thể luôn khỏe mạnh.\n",
+                "categories": [
+                    "Health and beauty",
+                    "Other"
+                ],
+                "price": 1380000,
+                "sold": 0,
+                "score": 0.45000000000000007
             }
         ]
     }

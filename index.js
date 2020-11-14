@@ -7,8 +7,6 @@ const keywords = require("./data/keywords.json")
 const removeAccents = require("./functions/removeAccents")
 
 const t0 = new Date().getTime()
-
-console.log("====================================================================")
 const output = {
     "full_name": "Chung Nguyễn Trường Duy"
 }
@@ -37,13 +35,13 @@ keywords.map(key => {
         let coefficient = 1
         keyword_split.map((value) => {
             result += 2 * algorithm_tf_idf.tf(value, products_name[index]) * coefficient
-            if (result !== 0) coefficient++
+            if (result !== 0) coefficient *= 2
         })
 
         coefficient = 1
         keyword_not_accent_split.map((value) => {
             result += algorithm_tf_idf.tf(value, products_name_not_accent[index]) * coefficient
-            if(result !== 0) coefficient++
+            if(result !== 0) coefficient *= 2
         })
 
         if(result > max_score) max_score = result

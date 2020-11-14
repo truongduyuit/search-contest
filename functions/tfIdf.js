@@ -1,7 +1,7 @@
 function tf(word, doc) {
 	if (!doc) return 0
 
-    const count = doc.split(` ${word} `).length-1
+    const count = (" " + doc + " ").split(` ${word} `).length-1
     const length = doc.length
     return count/ length
 }
