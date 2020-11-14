@@ -1,0 +1,43 @@
+{
+  "full_name": "your name",
+  "result": {
+    "Đồng hồ": [
+      {
+        "name": "Máy hút bụi trên ô tô, có bơm, đèn soi và đo áp suất lốp",
+        "description": "Máy hút bụi & Thiết bị làm sạch - Máy hút bụi trên ô tô, có bơm, đèn soi và đo áp suất lốp",
+        "categories": [
+          "Thiết Bị Điện Gia Dụng",
+          "Máy hút bụi & Thiết bị làm sạch"
+        ],
+        "price": 699000,
+        "sold": 20
+      },
+      {
+        "name": "Bảo hành 12 Tháng BÀN LÀ HƠI NƯỚC SUNHOUSE 220ML SH206",
+        "description": "Thiết bị chăm sóc quần áo - Bảo hành 12 Tháng BÀN LÀ HƠI NƯỚC SUNHOUSE 220ML SH206",
+        "categories": ["Thiết Bị Điện Gia Dụng", "Thiết bị chăm sóc quần áo"],
+        "price": 265000,
+        "sold": 0
+      }
+    ],
+    "BÀN LÀ": [
+      {
+        "name": "Máy hút bụi trên ô tô, có bơm, đèn soi và đo áp suất lốp",
+        "description": "Máy hút bụi & Thiết bị làm sạch - Máy hút bụi trên ô tô, có bơm, đèn soi và đo áp suất lốp",
+        "categories": [
+          "Thiết Bị Điện Gia Dụng",
+          "Máy hút bụi & Thiết bị làm sạch"
+        ],
+        "price": 699000,
+        "sold": 20
+      },
+      {
+        "name": "Bảo hành 12 Tháng BÀN LÀ HƠI NƯỚC SUNHOUSE 220ML SH206",
+        "description": "Thiết bị chăm sóc quần áo - Bảo hành 12 Tháng BÀN LÀ HƠI NƯỚC SUNHOUSE 220ML SH206",
+        "categories": ["Thiết Bị Điện Gia Dụng", "Thiết bị chăm sóc quần áo"],
+        "price": 265000,
+        "sold": 0
+      }
+    ]
+  }
+}
