@@ -1,5 +1,3 @@
-var accents = require('remove-accents');
-
 module.exports = function removeAccents(str) {
   //str = str.replace(/\s+/g, ' ');
   //loại bỏ toàn bộ dấu space (nếu có) ở 2 đầu của chuỗi

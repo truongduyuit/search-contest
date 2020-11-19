@@ -1,8 +1,9 @@
+const mostCommon = require('most-common');
 function tf(word, doc) {
 	if (!doc) return 0
 
-    const count = (" " + doc + " ").split(` ${word} `).length-1
-    const length = doc.length
+	const count = (" " + doc + " ").split(` ${word} `).length-1
+	const length = doc.length
     return count/ length
 }
 function idf(word, docs) {
